@@ -1,0 +1,9 @@
+.box1{
+    display: inline-block;
+    border: 1px solid #ddd;
+    padding: 20px;
+    font-size: 20px;
+    color: lch(53 105 40);
+    background-size: cover;
+    background-image: url(../assets/tx.png);
+}
